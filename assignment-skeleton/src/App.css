@@ -1,0 +1,67 @@
+.App {
+  margin: 2rem;
+}
+
+.solution-container {
+  border-top: 1px solid red;
+  margin-top: 1rem;
+}
+
+/* ex1 */
+.square {
+  display: flex;
+  background-color: lightgreen;
+  width: 200px;
+  height: 200px;
+  border: 3px solid red;
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+#msg1 {
+  color: red;
+}
+
+/* ex2 */
+
+#buttonCursor{
+  cursor: pointer;
+}
+
+/**/
+
+.pink{
+  color: pink;
+}
+
+.red{
+  color:red;
+}
+
+.blue{
+  color:blue;
+}
+
+.violet{
+  color:violet;
+}
+
+.green{
+  color:green;
+}
+.yellow{
+  color:yellow;
+}
+
+
+/**/
+
+.user{
+  border: 1px solid black;
+  border-radius: 2px; 
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 5px;
+}
